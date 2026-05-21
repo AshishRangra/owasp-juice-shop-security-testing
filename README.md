@@ -46,4 +46,4 @@ Used Burp Suite to intercept login requests and modified the email parameter wit
 - Practical use of Burp Suite
 
 ## Disclaimer
-This project was performed in a legal lab environment (OWASP Juice Shop) for educational and learning purposes only.
+This project was performed in a legal lab environment (OWASP Juice Shop) for learning SQL injection only.
