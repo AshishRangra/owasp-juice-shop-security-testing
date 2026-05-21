@@ -31,13 +31,13 @@ Used Burp Suite to intercept login requests and modified the email parameter wit
 ## Screenshots
 
 ### OWASP Juice Shop Environment
-![Juice Shop](/juice-shop-home.png)
+![Juice Shop](/juice-shop-home.png.png)
 
 ### Burp Suite Request Interception
-![Burp Suite](/burp-suite-sql-injection.png)
+![Burp Suite](/burp-suite-sql-injection.png.png)
 
 ### Request Analysis
-![Request Analysis](/request-analysis.png)
+![Request Analysis](/request-analysis.png.png)
 
 ## Learning Outcomes
 - HTTP request manipulation
